@@ -1,0 +1,48 @@
+[Titulo]
+Mortal kombat
+[letras menores]
+Um dos maiores jogos de luta do mundo
+
+[MENU]
+Home
+curiosidades
+personagens
+
+[CONTEÚDO]
+O inicio
+Mortal Kombat (1992) deu início à história da franquia. O jogo foi lançado inicialmente 
+para arcades e depois portado para várias outras plataformas.
+No game, sete lutadores se reúnem para participar de um torneio mortal de artes marciais.
+São eles: Johnny Cage, Kano, Liu Kang, Raiden, Scorpion, Sonya Blade e Sub-Zero.
+
+[IMAGEM]
+
+Na época, o jogo inovou ao capturar movimentos feitos por atores reais. Além disso,
+fez o público ir à loucura com os Fatalities, golpes finalizadores regados à sangue
+que viriam a se tornar marca registrada da série.
+
+A produção do primeiro jogo foi baseada na ideia original que Ed Boon e John Tobias
+tinham em fazer um jogo em que participasse Jean-Claude Van Damme,[2] mas a ideia
+foi deixada de parte, e em vez disso foi criado Mortal Kombat, um jogo de luta com temas
+de fantasia e ciência, lançado em Outubro de 1992.
+
+[IMAGEM]
+
+[3] O jogo original, gerou muitas sequelas,
+vários jogos de acção-aventura, filmes (animados e live-action com a sua sequela)
+e séries de televisão (animadas e live-action). Outra média inclui banda desenhada,
+jogo de cartas e a Mortal Kombat: Live Tour, um teatro de artes marciais com personagens da série.
+
+[EXTRA]
+Em 14 de setembro de 2023 a franquia ganhará mais um jogo, sendo ele, Mortal kombat 1
+de acordo com o ge.globo.com A história de Mortal Kombat 1 explorará o conceito de multiverso.
+No jogo, Liu Kang, que se tornou um deus no final do último game, tentará remoldar as histórias
+de origem dos personagens do universo de MK. Com isso, os jogadores verão os lutadores mais
+novos e com histórias modificadas.
+
+[trailer do jogo]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ1jWEDNoJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[roda pé]
+
+Site criado por Rennan martins, apenas um material de estudo.

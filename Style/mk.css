@@ -1,0 +1,120 @@
+@charset 'UTF-8';
+
+@font-face {
+    src: url('..//fontes/mkda.ttf');
+    font-family: 'mkt';
+}
+@font-face {
+    src: url('.//fontes/LEMONMILK-Regular.otf');
+    font-family: 'lemon';
+}
+:root {
+    --cor01: #f2f2f2;
+    --cor02: #83d8f4;
+    --cor03: #3e9da4;
+    --cor04: #1aa3d9;
+    --cor05: #1488d3;
+    /*Cores do gradiente*/
+    --cor001: #ffe724;
+    --cor002: #f1832e;
+    --cor003: #4d0e05;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', sans-serif;
+    --fonte-mkt: 'mkt', cursive;
+    --fonte-nav: 'lemon', cursive;
+    
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to bottom, var(--cor001), var(--cor002), var(--cor003));
+    min-height: 50px;
+    text-align: center;
+    padding-top: 0px;
+    display: block;
+}
+
+header > h1 {
+    font-size: 3em;
+    padding: 3%;
+    padding-bottom: 1.5%;
+    font-family: var(--fonte-mkt);
+}
+
+header > p {
+    font-family: var(--fonte-mkt);
+    letter-spacing: 4px;
+}
+
+nav {
+    background-color: var(--cor003);
+    padding: 1% 0% 1% 0%;
+    text-align: center;
+    font-family: var(--fonte-nav);
+    font-size: 1em;
+}
+nav > a {
+    text-decoration: none;
+    padding: 0% 2% 0% 2%;
+    color: white;
+    background-color: #00000040;
+    border-radius: 5px;
+}
+
+main {
+    min-width: 450px;
+    max-width: 730px;
+    margin: auto;
+    background-color: var(--cor01);
+    padding: 2% 1% 2% 1%;
+}
+
+main > article > h1 {
+    font-family: var(--fonte-mkt);
+    text-align: center;
+    padding-bottom: 2%;
+    font-size: 1.6em;
+}
+
+p.p1, p.p2 {
+    padding: 2% 0% 2% 0%;
+}
+
+article > p {
+    text-align: justify;
+    padding-bottom: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(119, 0, 0);
+    font-weight: bold
+}
+
+a:hover {
+    color: var(--cor003);
+    background-color: #ffe5246b;
+    border-radius: 10%;
+} 
+
+footer {
+    max-width: 757px;
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgba(82, 82, 82, 0.164);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
